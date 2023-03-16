@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CSTE"]
+	path = CSTE
+	url = https://github.com/hwj0828/cste
+	shallow = true
+	registered = true
